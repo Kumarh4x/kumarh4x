@@ -117,8 +117,7 @@ Shree Devi College of Information Science
 [![GitHub](https://img.shields.io/badge/GitHub-Kumarh4x-181717?style=flat-square&logo=github)](https://github.com/Kumarh4x)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan_Kumar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/pavankumarp08)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-pavankumar.h4x-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/pavankumar.h4x)
-[![PortFolio](https://img.shields.io/badge/pavankumarp.web.app-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/pavankumar.h4x)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-pavankumarp.web.app-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://pavankumarp.web.app)
 ---
 
 > 🧠 Building. Breaking. Learning. Repeating.
