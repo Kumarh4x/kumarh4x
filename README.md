@@ -2,11 +2,13 @@
 
 ### 🛡️ Cybersecurity Enthusiast | Backend Developer | BCA Student
 
-- 🔐 Exploring Cybersecurity, Ethical Hacking & Web Security
-- 💻 Backend-focused developer building real-world web applications
-- 🤖 Interested in AI, RAG systems & Agentic Workflows
-- 🧪 Practicing on TryHackMe, Hack The Box & CTF challenges
-- 🚀 Open to internships, collaborations and real-world projects
+- 🛡️ Cybersecurity enthusiast focused on Ethical Hacking & Web Security
+- 🔎 Hands-on practice with TryHackMe, Hack The Box & CTF Challenges
+- 🐧 Working with Kali Linux and Linux-based security environments
+- 🌐 Exploring Web Security, vulnerabilities & practical security testing
+- 🔐 Building security-focused projects involving Cryptography & Steganography
+- 🤖 Exploring AI-powered security tools and Agentic Workflows
+- 🚀 Continuously learning through hands-on labs, CTFs and real-world projects
 
 ---
 
