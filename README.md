@@ -126,8 +126,4 @@ Shree Devi College of Information Science
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Kumarh4x/Kumarh4x/output/snake.svg)
-
-![Dark Snake](https://raw.githubusercontent.com/Kumarh4x/Kumarh4x/output/snake-dark.svg)
-
-![Purple Snake](https://raw.githubusercontent.com/Kumarh4x/Kumarh4x/output/snake-purple.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Kumarh4x/Kumarh4x/output/snake-purple.svg)
